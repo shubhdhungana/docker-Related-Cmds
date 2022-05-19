@@ -33,6 +33,17 @@
 5. After that process. Run this url on browser
    ---> 127.0.0.1:1080/splash.html or, 
    --> sandbox-hdp.hortonworks.com:1080 (any one open port server address)
+    
+    
+    ----------------------------------------------------------
+
+docker and sandbox error mitigations
+-----------------
+
+Go to this link for error documentation: 
+https://medium.com/tech-weekly/cloudera-sandbox-deployment-and-install-guide-6ae12bffe03e
+
+
 
 -----------------------------------------------------------
 
